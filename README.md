@@ -4,6 +4,9 @@
 
 Основной фокус проекта — это обработка, анализ и визуализация данных, что позволяет выявлять статьи с похожими темами или содержанием. Такой подход способствует более быстрому и точному поиску релевантных научных материалов.
 
+Демонстрация интерактивной визуализации
+![Снимок экрана 2024-11-27 184722](https://github.com/user-attachments/assets/0fb99531-a535-43e1-9904-1b33dbaa4db0)
+
 ## Данные
 
 ### Программа для интерактивной визуализации (для использования требуется установленный Python 3.13+ и настройка PATH и .py для работы с Python)
@@ -25,3 +28,5 @@
 - [Суммаризированные данные (362.6MB)](https://drive.google.com/file/d/1sndcHUawuYSRdSeIcuXfzSsOYRVwPMiC/view?usp=sharing)
 - [Данные, содержащие эмбединги (1.91GB)](https://drive.google.com/file/d/1WuaNgYlVAPeiK57ITVl5F1Y_A4oTlOjM/view?usp=sharing)
 - [Полностью обработанные данные (365.2MB)](https://drive.google.com/file/d/1dlbRkQPklHLIB8GyV4sEYkKV8kN4EFk8/view?usp=sharing)
+
+
